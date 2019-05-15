@@ -1,0 +1,9 @@
+Student Name:FALLIN, D.
+Student ID Number: 2574063
+Course Code 	 Course Credits 	 Course Grade
+MK106 			 3 					 C
+MA208 			 3 					 B
+CM201 			 3 					 C
+CP101 			 2 					 B
+Total Semester Course Credits Compled: 11
+Semester GPA:2.5

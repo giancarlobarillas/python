@@ -1,0 +1,8 @@
+Student Name:BOKOW, R.
+Student ID Number: 2333021
+Course Code 	 Course Credits 	 Course Grade
+NS201 			 3 					 A
+MG342 			 3 					 A
+FA302 			 1 					 A
+Total Semester Course Credits Compled: 7
+Semester GPA:4.0
